@@ -1,0 +1,12 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: 872926ce1e09d57b3f2c
+            clientSecret: 07b05d314676c7b3939dd610c7c84f7813266c5b
+# ...
+
+
+#spring.application.name=SpringBootandOAuth2Demo
